@@ -1,0 +1,65 @@
+[LOCAL]
+
+Curiosidades de Tecnologia
+
+Tudo aquilo que você sempre quis saber sobre o mundo Tech, em um único lugar
+
+[CARDÁPIO]
+Casa
+Notícias
+Curiosidades
+Fale Conosco
+
+História do Mascote do Android
+
+Provavelmente você sabe que o sistema operacional Android mantido pelo Google é um dos mais usados ​​para dispositivos móveis em todo o mundo. Mas tavez você não saiba que o seu simpático mascote tem um nome e uma história muito curiosa? Pois é sobre esse artigo esse para aprender muita coisa.
+
+A primeira versão
+
+A primeira tentativa de criar um mascote surgiu em 2007 e veio de um desenvolvedor chamado Dan Morrill. Ele conta que abriu o Inkscape (software livre para vetorização de imagens) e criou sua própria versão de robô. O objetivo era apenas personificar o sistema apenas para aa sua equipe, não existia nenhuma solicitação da empresa para a criação de um mascote.
+
+[FOTO]
+
+Essa primeira versão bizarra foi batizada em homenagem ao seu criador: seriam os Dandroids.
+
+Surge um novo mascote
+
+A ideia de ter um mascote para um profissional da missão foi passada para uma área. A ilustrada Russa Irina Blok, também funcionária do Google, ficou com a missão de representar o pequeno robô de uma maneira mais agradável.
+
+[FOTO]
+
+A ideia principal da Irina representava tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o Bugdroid, o novo mascote do Android.
+
+[FOTO]
+
+A principal inspiração para os traços do novo Bugdroid veio junto com os dequinhos que ilustram o banheiro para indicar o gênero de cada porta. Conta lenda que a artista estava projetando em sua mesa no escritório do Google e olhou para o lado dos banheiros, ea identificação foi imediata: simples, objetivo.
+
+[VÍDEO]
+ 
+[EXTRA] Quer aprender mais?
+
+Outro curioso em relação ao Android é que cada versão semper foi nomeada em homenagem a um doce, em ordem alfabética a partir da versão 1.5 assunto até a 9.0.
+
+1.5 - Bolinho
+1.6 - Rosquinha
+3.0 - Éclair
+2.2 - Froyo
+2.3 - Pão de Gengibre
+3.0 - Favo de mel
+4.0 - Sanduíche de Sorvete
+4.1 - Jujuba
+4.4 - Kit Kat
+5.0 - Pirulito
+6.0 - Marshmallow
+7.0 - Nougat
+8.0 - Oreo
+9.0 - Torta
+
+, o Android Q não existe, pois o Google deu origem ao fim desta prática divertida e começou a usar numerações, o que deu origem ao Android 10.
+
+Acesse aqui o histórico do site Android para conhecer a sequência das versões "adocicadas" eo que cada uma trouxe para o sistema Android.
+[/EXTRA]
+
+Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o sistema Android e seu mascote simpático.
+         
+Site criado por Gustavo Guanabara para o CursoemVideo.
