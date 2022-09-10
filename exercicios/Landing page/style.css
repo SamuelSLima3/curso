@@ -36,15 +36,22 @@ body {
   font-family: 'sarala', Arial, Sans-serif ;
 }
 
-.conteudo {
+.main {
   margin-bottom: 48px;
   border-top: 0.4px solid #FFF2E7;
 }
 
-.conteudo-parte-1 {
+.conteudo {
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: space-around ;
 
+}
+.conteudo-parte-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+    
 }
 
