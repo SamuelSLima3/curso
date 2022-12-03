@@ -29,13 +29,13 @@
         .nome {
             background-color:aquamarine;
         }
-        .idade {
+        .nomida {
             background-color: bisque;
         }
-        .sexo {
-            background-color: brown;
-        }
 
+        .sexo {
+            background-color: blueviolet; 
+        }
     </style>
 </head>
 <body>
@@ -43,10 +43,8 @@
     <table>
         <caption>Cadastro</caption>
         <colgroup>
-            <col class="nome">
-            <col class="idade">
-            <col class="sexo">
-            <col class="prof">
+            <col class="nomida" span="2">
+            <col class="sexo" span="2"> <!--tudo que for aplicado a classe sexo, vai ser expandido por 2 colunas-->
         </colgroup>
     <tr>
         <th scope="col">Nome</th>
